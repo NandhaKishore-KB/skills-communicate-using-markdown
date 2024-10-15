@@ -5,3 +5,7 @@
 ## GitHub
 
 ###### pull request
+
+``` javascript
+var myVar = "GitHub";
+```
